@@ -1,4 +1,5 @@
-# NLP_Decoder
+# Deep Learning English Decoder Based On NLP (Natural Language Processing)
+# 基於深度學習的英語解密自然語言處理模型
 ## Execution
 ```
 in.txt : type encryption in in.txt.
